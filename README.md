@@ -1,8 +1,9 @@
 ## Bem-vindo(a) ao meu perfil!
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jottape11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jottape11&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jottape11&theme=tokyonight" alt="Estatísticas de Contribuição" />
+  
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Jottape11&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
 
 <br>
