@@ -4,10 +4,6 @@
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=550&height=45&lines=Software+Engineering+Student+at+FIAP+%F0%9F%8E%93;Full+Stack+%26+FastAPI+Developer+%E2%9A%A1;AI-Powered+Software+Development+%F0%9F%A4%96;Crafting+Modern+Web+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Jottape11&color=7aa2f7&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  </p>
 </div>
 
 ---
@@ -56,7 +52,6 @@
       <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" />
       <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/AI_Pair_Programming-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
     </td>
     <td width="50%" align="center">
       <b>🚀 Tools & Workflow</b><br><br>
